@@ -1,5 +1,5 @@
 # 💫 About Me:
-As an aerospace engineering master's grad turned software engineer, I've honed my skills in JavaScript, Java, Python, React, and Spring. My journey so far includes pioneering a drone control system, crafting data extraction tech for startups and developing full-stack applications. I thrive on learning new technologies and collaborating in teams to come up with solutions to complex problems.
+Aerospace engineering graduate turned software engineer, I've honed my skills in JavaScript, Java, Python, React, and Spring. My journey so far includes pioneering a drone control system, crafting data extraction tech for startups and developing full-stack applications. I thrive on learning new technologies and collaborating in teams to come up with solutions to complex problems.
 
 
 # 💻 Tech Stack:
